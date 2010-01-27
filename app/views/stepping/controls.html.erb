@@ -1,0 +1,20 @@
+<% if @prev_commit_hash.nil? %>
+	This is a bit of an ugly hack (iframes?!?), but it <i>does</i> allow you to step through my commits.
+<% else %>
+<%= link_to "<-- previous commit", {:controller => "stepping", :action => "view_commit", :commit_hash => @prev_commit_hash}, :target => "_top" %>
+<% end %>
+
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+
+<% if @next_commit_hash.nil? %>
+	Hey, that's the last of it!  If you read all that, you should have seen a nice BDD process.
+<% else %>
+	<%= link_to "next commit -->", {:controller => "stepping", :action => "view_commit", :commit_hash => @next_commit_hash}, :target => "_top" %>
+<% end %>

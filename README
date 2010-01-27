@@ -1,0 +1,23 @@
+Welcome to the GitStepper!
+
+This program is intended to be super-simple (though by the time you're reading this it may have gotten bigger).
+
+The idea is that you want to be able to step through a series of Git commits, using a nice interface to be able to see the changes made by that commit, within the context of the unchanged contents of the various files.
+
+The nice interface for viewing a commit is GitHub's interface:  they show you each file changed, and they include the added and deleted lines highlighted in green and red, respectively.
+
+However, Github doesn't allow you to step FORWARD through the commits.  You can step backwards, because each commit page has a link to the parent.  The reason for this is simple:  there is no such thing as a well-defined FORWARD in Git, because what do you do if something branched?
+
+Well, in this app that is solved by you deciding what order is defined as "forward".
+
+So here's what you do:
+
+1.  Clone this application to your local machine.
+
+2.  Got to lg_commits.rb, and just enter a series of commit hashes as the array there.  That will define the sequence in which the GitStepper displays the commits.
+
+3.  Deploy your app to Heroku:  (install the heroku gem and sign up if you haven't, you won't regret it).  Go to your app directory and type "heroku create someappname" where someappname is definitely going to be unique.
+
+4.  Visit someappname.heroku.com, and start GitStepping!  The app will display links in order.  These links open up the Github commit page for each commit, within an iframe.
+
+Like I said, pretty bare-bones.  But it works.

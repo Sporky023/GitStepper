@@ -1,0 +1,643 @@
+
+
+Processing SteppingController#view_commit (for 127.0.0.1 at 2010-01-21 14:05:21) [GET]
+Rendering stepping/view_commit
+Completed in 63ms (View: 54, DB: 0) | 200 OK [http://localhost/stepping/view_commit]
+
+
+Processing SteppingController#view_commit (for 127.0.0.1 at 2010-01-21 14:28:46) [GET]
+Rendering stepping/view_commit
+Completed in 98ms (View: 79, DB: 0) | 200 OK [http://localhost/stepping/view_commit]
+
+
+Processing SteppingController#view_commit (for 127.0.0.1 at 2010-01-21 14:28:55) [GET]
+Rendering stepping/view_commit
+Completed in 35ms (View: 17, DB: 0) | 200 OK [http://localhost/stepping/view_commit]
+
+
+Processing SteppingController#view_commit (for 127.0.0.1 at 2010-01-21 14:28:58) [GET]
+Rendering stepping/view_commit
+Completed in 22ms (View: 4, DB: 0) | 200 OK [http://localhost/stepping/view_commit]
+
+
+Processing SteppingController#view_commit (for 127.0.0.1 at 2010-01-21 14:29:01) [GET]
+Rendering stepping/view_commit
+Completed in 22ms (View: 4, DB: 0) | 200 OK [http://localhost/stepping/view_commit]
+
+
+Processing SteppingController#view_commit (for 127.0.0.1 at 2010-01-21 14:29:19) [GET]
+Rendering stepping/view_commit
+Completed in 33ms (View: 15, DB: 0) | 200 OK [http://localhost/stepping/view_commit]
+
+
+Processing SteppingController#view_commit (for 127.0.0.1 at 2010-01-21 14:30:18) [GET]
+Rendering stepping/view_commit
+Completed in 33ms (View: 15, DB: 0) | 200 OK [http://localhost/stepping/view_commit]
+
+
+Processing SteppingController#view_commit (for 127.0.0.1 at 2010-01-21 14:46:26) [GET]
+Rendering stepping/view_commit
+Completed in 33ms (View: 15, DB: 0) | 200 OK [http://localhost/stepping/view_commit]
+
+
+Processing SteppingController#view_commit (for 127.0.0.1 at 2010-01-21 14:46:29) [GET]
+  Parameters: {"commit_hash"=>"cce89d2e925f7ebc85d2f83bb2374d23cde018b2"}
+
+NoMethodError (undefined method `-' for "cce89d2e925f7ebc85d2f83bb2374d23cde018b2":String):
+  app/controllers/stepping_controller.rb:21:in `view_commit'
+
+Rendered rescues/_trace (97.4ms)
+Rendered rescues/_request_and_response (3.7ms)
+Rendering rescues/layout (internal_server_error)
+
+
+Processing SteppingController#view_commit (for 127.0.0.1 at 2010-01-21 14:46:38) [GET]
+Rendering stepping/view_commit
+Completed in 23ms (View: 4, DB: 0) | 200 OK [http://localhost/stepping/view_commit]
+
+
+Processing SteppingController#view_commit (for 127.0.0.1 at 2010-01-21 14:46:39) [GET]
+Rendering stepping/view_commit
+Completed in 22ms (View: 4, DB: 0) | 200 OK [http://localhost/stepping/view_commit]
+
+
+Processing SteppingController#view_commit (for 127.0.0.1 at 2010-01-21 14:46:47) [GET]
+Rendering stepping/view_commit
+Completed in 34ms (View: 16, DB: 0) | 200 OK [http://localhost/stepping/view_commit]
+
+
+Processing SteppingController#view_commit (for 127.0.0.1 at 2010-01-21 14:46:51) [GET]
+Rendering stepping/view_commit
+Completed in 35ms (View: 16, DB: 0) | 200 OK [http://localhost/stepping/view_commit]
+
+
+Processing SteppingController#view_commit (for 127.0.0.1 at 2010-01-21 14:56:17) [GET]
+Rendering stepping/view_commit
+Completed in 56ms (View: 38, DB: 0) | 200 OK [http://localhost/stepping/view_commit]
+
+
+Processing SteppingController#view_commit (for 127.0.0.1 at 2010-01-21 14:58:35) [GET]
+Rendering stepping/view_commit
+Completed in 131ms (View: 111, DB: 0) | 200 OK [http://localhost/stepping/view_commit]
+
+
+Processing SteppingController#view_commit (for 127.0.0.1 at 2010-01-21 14:58:57) [GET]
+Rendering stepping/view_commit
+Completed in 34ms (View: 15, DB: 0) | 200 OK [http://localhost/stepping/view_commit]
+
+
+Processing SteppingController#controls (for 127.0.0.1 at 2010-01-21 14:58:57) [GET]
+Rendering stepping/controls
+Completed in 22ms (View: 13, DB: 0) | 200 OK [http://localhost/stepping/controls]
+
+
+Processing SteppingController#view_commit (for 127.0.0.1 at 2010-01-21 14:59:09) [GET]
+Rendering stepping/view_commit
+Completed in 23ms (View: 4, DB: 0) | 200 OK [http://localhost/stepping/view_commit]
+
+
+Processing SteppingController#controls (for 127.0.0.1 at 2010-01-21 14:59:09) [GET]
+
+RuntimeError (entered controls):
+  app/controllers/stepping_controller.rb:32:in `controls'
+
+Rendered rescues/_trace (94.1ms)
+Rendered rescues/_request_and_response (0.7ms)
+Rendering rescues/layout (internal_server_error)
+
+
+Processing SteppingController#view_commit (for 127.0.0.1 at 2010-01-21 14:59:23) [GET]
+Rendering stepping/view_commit
+Completed in 22ms (View: 4, DB: 0) | 200 OK [http://localhost/stepping/view_commit]
+
+
+Processing SteppingController#controls (for 127.0.0.1 at 2010-01-21 14:59:23) [GET]
+
+RuntimeError (entered controls):
+  app/controllers/stepping_controller.rb:32:in `controls'
+
+Rendered rescues/_trace (95.7ms)
+Rendered rescues/_request_and_response (0.8ms)
+Rendering rescues/layout (internal_server_error)
+
+
+Processing SteppingController#view_commit (for 127.0.0.1 at 2010-01-21 14:59:29) [GET]
+Rendering stepping/view_commit
+Completed in 22ms (View: 4, DB: 0) | 200 OK [http://localhost/stepping/view_commit]
+
+
+Processing SteppingController#controls (for 127.0.0.1 at 2010-01-21 14:59:29) [GET]
+Rendering stepping/controls
+Completed in 23ms (View: 13, DB: 0) | 200 OK [http://localhost/stepping/controls]
+
+
+Processing SteppingController#view_commit (for 127.0.0.1 at 2010-01-21 14:59:47) [GET]
+Rendering stepping/view_commit
+Completed in 34ms (View: 15, DB: 0) | 200 OK [http://localhost/stepping/view_commit]
+
+
+Processing SteppingController#controls (for 127.0.0.1 at 2010-01-21 14:59:47) [GET]
+Rendering stepping/controls
+Completed in 11ms (View: 2, DB: 0) | 200 OK [http://localhost/stepping/controls]
+
+
+Processing SteppingController#view_commit (for 127.0.0.1 at 2010-01-21 15:01:02) [GET]
+Rendering stepping/view_commit
+Completed in 32ms (View: 13, DB: 0) | 200 OK [http://localhost/stepping/view_commit]
+
+
+Processing SteppingController#controls (for 127.0.0.1 at 2010-01-21 15:01:02) [GET]
+
+NameError (undefined local variable or method `a' for #<SteppingController:0x2439cf0>):
+  app/controllers/stepping_controller.rb:40:in `controls'
+
+Rendered rescues/_trace (100.3ms)
+Rendered rescues/_request_and_response (1.0ms)
+Rendering rescues/layout (internal_server_error)
+
+
+Processing SteppingController#view_commit (for 127.0.0.1 at 2010-01-21 15:01:14) [GET]
+
+NameError (undefined local variable or method `a' for #<SteppingController:0x2313e34>):
+  app/controllers/stepping_controller.rb:7:in `view_commit'
+
+Rendered rescues/_trace (95.5ms)
+Rendered rescues/_request_and_response (0.8ms)
+Rendering rescues/layout (internal_server_error)
+
+
+Processing SteppingController#view_commit (for 127.0.0.1 at 2010-01-21 15:01:16) [GET]
+
+NameError (undefined local variable or method `a' for #<SteppingController:0x2243a2c>):
+  app/controllers/stepping_controller.rb:7:in `view_commit'
+
+Rendered rescues/_trace (94.7ms)
+Rendered rescues/_request_and_response (0.7ms)
+Rendering rescues/layout (internal_server_error)
+
+
+Processing SteppingController#view_commit (for 127.0.0.1 at 2010-01-21 15:01:27) [GET]
+
+NameError (undefined local variable or method `a' for #<SteppingController:0x2465620>):
+  app/controllers/stepping_controller.rb:7:in `view_commit'
+
+Rendered rescues/_trace (95.0ms)
+Rendered rescues/_request_and_response (0.7ms)
+Rendering rescues/layout (internal_server_error)
+
+
+Processing SteppingController#view_commit (for 127.0.0.1 at 2010-01-21 15:01:30) [GET]
+
+NameError (undefined local variable or method `a' for #<SteppingController:0x2340da8>):
+  app/controllers/stepping_controller.rb:7:in `view_commit'
+
+Rendered rescues/_trace (93.7ms)
+Rendered rescues/_request_and_response (0.8ms)
+Rendering rescues/layout (internal_server_error)
+
+
+Processing SteppingController#view_commit (for 127.0.0.1 at 2010-01-21 15:01:32) [GET]
+
+NameError (undefined local variable or method `a' for #<SteppingController:0x226d5c0>):
+  app/controllers/stepping_controller.rb:7:in `view_commit'
+
+Rendered rescues/_trace (186.0ms)
+Rendered rescues/_request_and_response (0.9ms)
+Rendering rescues/layout (internal_server_error)
+
+
+Processing SteppingController#view_commit (for 127.0.0.1 at 2010-01-21 15:01:41) [GET]
+Rendering stepping/view_commit
+Completed in 21ms (View: 2, DB: 0) | 200 OK [http://localhost/stepping/view_commit]
+
+
+Processing SteppingController#controls (for 127.0.0.1 at 2010-01-21 15:01:41) [GET]
+  Parameters: {"commit_hash"=>"acfcf87faca688f55042950bd4aba48f7d2d7359"}
+
+TypeError (can't convert Fixnum into String):
+  app/controllers/stepping_controller.rb:27:in `controls'
+
+Rendered rescues/_trace (98.8ms)
+Rendered rescues/_request_and_response (0.8ms)
+Rendering rescues/layout (internal_server_error)
+
+
+Processing SteppingController#view_commit (for 127.0.0.1 at 2010-01-21 15:02:24) [GET]
+Rendering stepping/view_commit
+Completed in 21ms (View: 2, DB: 0) | 200 OK [http://localhost/stepping/view_commit]
+
+
+Processing SteppingController#controls (for 127.0.0.1 at 2010-01-21 15:02:24) [GET]
+  Parameters: {"commit_hash"=>"acfcf87faca688f55042950bd4aba48f7d2d7359"}
+Rendering stepping/controls
+Completed in 23ms (View: 3, DB: 0) | 200 OK [http://localhost/stepping/controls?commit_hash=acfcf87faca688f55042950bd4aba48f7d2d7359]
+
+
+Processing SteppingController#view_commit (for 127.0.0.1 at 2010-01-21 15:02:30) [GET]
+  Parameters: {"commit_hash"=>"cce89d2e925f7ebc85d2f83bb2374d23cde018b2"}
+Rendering stepping/view_commit
+Completed in 20ms (View: 2, DB: 0) | 200 OK [http://localhost/stepping/view_commit?commit_hash=cce89d2e925f7ebc85d2f83bb2374d23cde018b2]
+
+
+Processing SteppingController#controls (for 127.0.0.1 at 2010-01-21 15:02:30) [GET]
+  Parameters: {"commit_hash"=>"cce89d2e925f7ebc85d2f83bb2374d23cde018b2"}
+Rendering stepping/controls
+Completed in 26ms (View: 5, DB: 0) | 200 OK [http://localhost/stepping/controls?commit_hash=cce89d2e925f7ebc85d2f83bb2374d23cde018b2]
+
+
+Processing SteppingController#view_commit (for 127.0.0.1 at 2010-01-21 15:02:50) [GET]
+Rendering stepping/view_commit
+Completed in 20ms (View: 2, DB: 0) | 200 OK [http://localhost/stepping/view_commit]
+
+
+Processing SteppingController#controls (for 127.0.0.1 at 2010-01-21 15:02:50) [GET]
+  Parameters: {"commit_hash"=>"acfcf87faca688f55042950bd4aba48f7d2d7359"}
+Rendering stepping/controls
+Completed in 36ms (View: 14, DB: 0) | 200 OK [http://localhost/stepping/controls?commit_hash=acfcf87faca688f55042950bd4aba48f7d2d7359]
+
+
+Processing SteppingController#view_commit (for 127.0.0.1 at 2010-01-21 15:02:53) [GET]
+  Parameters: {"commit_hash"=>"cce89d2e925f7ebc85d2f83bb2374d23cde018b2"}
+Rendering stepping/view_commit
+Completed in 20ms (View: 2, DB: 0) | 200 OK [http://localhost/stepping/view_commit?commit_hash=cce89d2e925f7ebc85d2f83bb2374d23cde018b2]
+
+
+Processing SteppingController#controls (for 127.0.0.1 at 2010-01-21 15:02:53) [GET]
+  Parameters: {"commit_hash"=>"cce89d2e925f7ebc85d2f83bb2374d23cde018b2"}
+Rendering stepping/controls
+Completed in 24ms (View: 6, DB: 0) | 200 OK [http://localhost/stepping/controls?commit_hash=cce89d2e925f7ebc85d2f83bb2374d23cde018b2]
+
+
+Processing SteppingController#view_commit (for 127.0.0.1 at 2010-01-21 15:03:12) [GET]
+  Parameters: {"commit_hash"=>"cce89d2e925f7ebc85d2f83bb2374d23cde018b2"}
+Rendering stepping/view_commit
+Completed in 21ms (View: 2, DB: 0) | 200 OK [http://localhost/stepping/view_commit?commit_hash=cce89d2e925f7ebc85d2f83bb2374d23cde018b2]
+
+
+Processing SteppingController#controls (for 127.0.0.1 at 2010-01-21 15:03:12) [GET]
+  Parameters: {"commit_hash"=>"cce89d2e925f7ebc85d2f83bb2374d23cde018b2"}
+Rendering stepping/controls
+Completed in 37ms (View: 17, DB: 0) | 200 OK [http://localhost/stepping/controls?commit_hash=cce89d2e925f7ebc85d2f83bb2374d23cde018b2]
+
+
+Processing SteppingController#view_commit (for 127.0.0.1 at 2010-01-21 15:03:16) [GET]
+  Parameters: {"commit_hash"=>"a4df01443cd2381d98bce9317556a70d449d70be"}
+Rendering stepping/view_commit
+Completed in 20ms (View: 2, DB: 0) | 200 OK [http://localhost/stepping/view_commit?commit_hash=a4df01443cd2381d98bce9317556a70d449d70be]
+
+
+Processing SteppingController#controls (for 127.0.0.1 at 2010-01-21 15:03:16) [GET]
+  Parameters: {"commit_hash"=>"a4df01443cd2381d98bce9317556a70d449d70be"}
+Rendering stepping/controls
+Completed in 24ms (View: 6, DB: 0) | 200 OK [http://localhost/stepping/controls?commit_hash=a4df01443cd2381d98bce9317556a70d449d70be]
+
+
+Processing SteppingController#view_commit (for 127.0.0.1 at 2010-01-21 15:03:19) [GET]
+  Parameters: {"commit_hash"=>"80c265e3328a89c65a356cc49add2037e11e09fa"}
+Rendering stepping/view_commit
+Completed in 21ms (View: 2, DB: 0) | 200 OK [http://localhost/stepping/view_commit?commit_hash=80c265e3328a89c65a356cc49add2037e11e09fa]
+
+
+Processing SteppingController#controls (for 127.0.0.1 at 2010-01-21 15:03:19) [GET]
+  Parameters: {"commit_hash"=>"80c265e3328a89c65a356cc49add2037e11e09fa"}
+Rendering stepping/controls
+Completed in 24ms (View: 6, DB: 0) | 200 OK [http://localhost/stepping/controls?commit_hash=80c265e3328a89c65a356cc49add2037e11e09fa]
+
+
+Processing SteppingController#view_commit (for 127.0.0.1 at 2010-01-21 15:03:22) [GET]
+  Parameters: {"commit_hash"=>"5969b8515be1026e9aeb47c937b65fe8140f0dea"}
+Rendering stepping/view_commit
+Completed in 20ms (View: 2, DB: 0) | 200 OK [http://localhost/stepping/view_commit?commit_hash=5969b8515be1026e9aeb47c937b65fe8140f0dea]
+
+
+Processing SteppingController#controls (for 127.0.0.1 at 2010-01-21 15:03:22) [GET]
+  Parameters: {"commit_hash"=>"5969b8515be1026e9aeb47c937b65fe8140f0dea"}
+Rendering stepping/controls
+Completed in 24ms (View: 6, DB: 0) | 200 OK [http://localhost/stepping/controls?commit_hash=5969b8515be1026e9aeb47c937b65fe8140f0dea]
+
+
+Processing SteppingController#view_commit (for 127.0.0.1 at 2010-01-21 15:06:23) [GET]
+  Parameters: {"commit_hash"=>"5969b8515be1026e9aeb47c937b65fe8140f0dea"}
+Rendering stepping/view_commit
+Completed in 32ms (View: 12, DB: 0) | 200 OK [http://localhost/stepping/view_commit?commit_hash=5969b8515be1026e9aeb47c937b65fe8140f0dea]
+
+
+Processing SteppingController#controls (for 127.0.0.1 at 2010-01-21 15:06:23) [GET]
+  Parameters: {"commit_hash"=>"5969b8515be1026e9aeb47c937b65fe8140f0dea"}
+Rendering stepping/controls
+Completed in 25ms (View: 6, DB: 0) | 200 OK [http://localhost/stepping/controls?commit_hash=5969b8515be1026e9aeb47c937b65fe8140f0dea]
+
+
+Processing SteppingController#view_commit (for 127.0.0.1 at 2010-01-21 15:08:42) [GET]
+  Parameters: {"commit_hash"=>"997d0976e26398a64337dce055dfc7189b44137e"}
+Rendering stepping/view_commit
+Completed in 20ms (View: 2, DB: 0) | 200 OK [http://localhost/stepping/view_commit?commit_hash=997d0976e26398a64337dce055dfc7189b44137e]
+
+
+Processing SteppingController#controls (for 127.0.0.1 at 2010-01-21 15:08:42) [GET]
+  Parameters: {"commit_hash"=>"997d0976e26398a64337dce055dfc7189b44137e"}
+Rendering stepping/controls
+Completed in 25ms (View: 6, DB: 0) | 200 OK [http://localhost/stepping/controls?commit_hash=997d0976e26398a64337dce055dfc7189b44137e]
+
+
+Processing SteppingController#view_commit (for 127.0.0.1 at 2010-01-21 15:09:07) [GET]
+  Parameters: {"commit_hash"=>"997d0976e26398a64337dce055dfc7189b44137e"}
+Rendering stepping/view_commit
+Completed in 31ms (View: 12, DB: 0) | 200 OK [http://localhost/stepping/view_commit?commit_hash=997d0976e26398a64337dce055dfc7189b44137e]
+
+
+Processing SteppingController#controls (for 127.0.0.1 at 2010-01-21 15:09:07) [GET]
+  Parameters: {"commit_hash"=>"997d0976e26398a64337dce055dfc7189b44137e"}
+Rendering stepping/controls
+Completed in 25ms (View: 6, DB: 0) | 200 OK [http://localhost/stepping/controls?commit_hash=997d0976e26398a64337dce055dfc7189b44137e]
+
+
+Processing SteppingController#view_commit (for 127.0.0.1 at 2010-01-21 15:11:04) [GET]
+  Parameters: {"commit_hash"=>"5969b8515be1026e9aeb47c937b65fe8140f0dea"}
+Rendering stepping/view_commit
+Completed in 20ms (View: 2, DB: 0) | 200 OK [http://localhost/stepping/view_commit?commit_hash=5969b8515be1026e9aeb47c937b65fe8140f0dea]
+
+
+Processing SteppingController#controls (for 127.0.0.1 at 2010-01-21 15:11:04) [GET]
+  Parameters: {"commit_hash"=>"5969b8515be1026e9aeb47c937b65fe8140f0dea"}
+Rendering stepping/controls
+Completed in 25ms (View: 6, DB: 0) | 200 OK [http://localhost/stepping/controls?commit_hash=5969b8515be1026e9aeb47c937b65fe8140f0dea]
+
+
+Processing SteppingController#view_commit (for 127.0.0.1 at 2010-01-21 15:11:15) [GET]
+  Parameters: {"commit_hash"=>"80c265e3328a89c65a356cc49add2037e11e09fa"}
+Rendering stepping/view_commit
+Completed in 21ms (View: 2, DB: 0) | 200 OK [http://localhost/stepping/view_commit?commit_hash=80c265e3328a89c65a356cc49add2037e11e09fa]
+
+
+Processing SteppingController#controls (for 127.0.0.1 at 2010-01-21 15:11:16) [GET]
+  Parameters: {"commit_hash"=>"80c265e3328a89c65a356cc49add2037e11e09fa"}
+Rendering stepping/controls
+Completed in 25ms (View: 6, DB: 0) | 200 OK [http://localhost/stepping/controls?commit_hash=80c265e3328a89c65a356cc49add2037e11e09fa]
+
+
+Processing SteppingController#view_commit (for 127.0.0.1 at 2010-01-21 15:11:37) [GET]
+  Parameters: {"commit_hash"=>"5969b8515be1026e9aeb47c937b65fe8140f0dea"}
+Rendering stepping/view_commit
+Completed in 20ms (View: 2, DB: 0) | 200 OK [http://localhost/stepping/view_commit?commit_hash=5969b8515be1026e9aeb47c937b65fe8140f0dea]
+
+
+Processing SteppingController#controls (for 127.0.0.1 at 2010-01-21 15:11:37) [GET]
+  Parameters: {"commit_hash"=>"5969b8515be1026e9aeb47c937b65fe8140f0dea"}
+Rendering stepping/controls
+Completed in 25ms (View: 6, DB: 0) | 200 OK [http://localhost/stepping/controls?commit_hash=5969b8515be1026e9aeb47c937b65fe8140f0dea]
+
+
+Processing SteppingController#view_commit (for 127.0.0.1 at 2010-01-21 15:12:12) [GET]
+  Parameters: {"commit_hash"=>"5969b8515be1026e9aeb47c937b65fe8140f0dea"}
+Rendering stepping/view_commit
+Completed in 34ms (View: 14, DB: 0) | 200 OK [http://localhost/stepping/view_commit?commit_hash=5969b8515be1026e9aeb47c937b65fe8140f0dea]
+
+
+Processing SteppingController#controls (for 127.0.0.1 at 2010-01-21 15:12:13) [GET]
+  Parameters: {"commit_hash"=>"5969b8515be1026e9aeb47c937b65fe8140f0dea"}
+Rendering stepping/controls
+Completed in 25ms (View: 6, DB: 0) | 200 OK [http://localhost/stepping/controls?commit_hash=5969b8515be1026e9aeb47c937b65fe8140f0dea]
+
+
+Processing SteppingController#welcome (for 127.0.0.1 at 2010-01-21 15:16:01) [GET]
+Rendering stepping/welcome
+Completed in 89ms (View: 78, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing SteppingController#welcome (for 127.0.0.1 at 2010-01-21 15:17:14) [GET]
+Rendering template within layouts/application
+Rendering stepping/welcome
+Completed in 39ms (View: 29, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing SteppingController#welcome (for 127.0.0.1 at 2010-01-21 15:17:25) [GET]
+Rendering template within layouts/application
+Rendering stepping/welcome
+Completed in 15ms (View: 4, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing SteppingController#view_commit (for 127.0.0.1 at 2010-01-21 15:17:29) [GET]
+Rendering template within layouts/application
+Rendering stepping/view_commit
+Completed in 33ms (View: 14, DB: 0) | 200 OK [http://localhost/stepping/view_commit]
+
+
+Processing SteppingController#controls (for 127.0.0.1 at 2010-01-21 15:17:30) [GET]
+  Parameters: {"commit_hash"=>"acfcf87faca688f55042950bd4aba48f7d2d7359"}
+Rendering template within layouts/application
+Rendering stepping/controls
+Completed in 36ms (View: 17, DB: 0) | 200 OK [http://localhost/stepping/controls?commit_hash=acfcf87faca688f55042950bd4aba48f7d2d7359]
+
+
+Processing SteppingController#view_commit (for 127.0.0.1 at 2010-01-21 15:18:16) [GET]
+Rendering template within layouts/application
+Rendering stepping/view_commit
+Completed in 34ms (View: 14, DB: 0) | 200 OK [http://localhost/stepping/view_commit]
+
+
+Processing SteppingController#controls (for 127.0.0.1 at 2010-01-21 15:18:16) [GET]
+  Parameters: {"commit_hash"=>"acfcf87faca688f55042950bd4aba48f7d2d7359"}
+Rendering template within layouts/application
+Rendering stepping/controls
+Completed in 37ms (View: 16, DB: 0) | 200 OK [http://localhost/stepping/controls?commit_hash=acfcf87faca688f55042950bd4aba48f7d2d7359]
+
+
+Processing SteppingController#view_commit (for 127.0.0.1 at 2010-01-21 15:18:28) [GET]
+Rendering template within layouts/application
+Rendering stepping/view_commit
+Completed in 23ms (View: 3, DB: 0) | 200 OK [http://localhost/stepping/view_commit]
+
+
+Processing SteppingController#controls (for 127.0.0.1 at 2010-01-21 15:18:29) [GET]
+  Parameters: {"commit_hash"=>"acfcf87faca688f55042950bd4aba48f7d2d7359"}
+Rendering template within layouts/application
+Rendering stepping/controls
+Completed in 35ms (View: 16, DB: 0) | 200 OK [http://localhost/stepping/controls?commit_hash=acfcf87faca688f55042950bd4aba48f7d2d7359]
+
+
+Processing SteppingController#view_commit (for 127.0.0.1 at 2010-01-21 15:18:40) [GET]
+Rendering template within layouts/application
+Rendering stepping/view_commit
+Completed in 22ms (View: 3, DB: 0) | 200 OK [http://localhost/stepping/view_commit]
+
+
+Processing SteppingController#controls (for 127.0.0.1 at 2010-01-21 15:18:40) [GET]
+  Parameters: {"commit_hash"=>"acfcf87faca688f55042950bd4aba48f7d2d7359"}
+Rendering template within layouts/application
+Rendering stepping/controls
+Completed in 36ms (View: 17, DB: 0) | 200 OK [http://localhost/stepping/controls?commit_hash=acfcf87faca688f55042950bd4aba48f7d2d7359]
+
+
+Processing SteppingController#view_commit (for 127.0.0.1 at 2010-01-21 15:18:55) [GET]
+Rendering template within layouts/application
+Rendering stepping/view_commit
+Completed in 22ms (View: 3, DB: 0) | 200 OK [http://localhost/stepping/view_commit]
+
+
+Processing SteppingController#controls (for 127.0.0.1 at 2010-01-21 15:18:55) [GET]
+  Parameters: {"commit_hash"=>"acfcf87faca688f55042950bd4aba48f7d2d7359"}
+Rendering template within layouts/application
+Rendering stepping/controls
+Completed in 36ms (View: 17, DB: 0) | 200 OK [http://localhost/stepping/controls?commit_hash=acfcf87faca688f55042950bd4aba48f7d2d7359]
+
+
+Processing SteppingController#view_commit (for 127.0.0.1 at 2010-01-21 15:18:57) [GET]
+  Parameters: {"commit_hash"=>"cce89d2e925f7ebc85d2f83bb2374d23cde018b2"}
+Rendering template within layouts/application
+Rendering stepping/view_commit
+Completed in 22ms (View: 3, DB: 0) | 200 OK [http://localhost/stepping/view_commit?commit_hash=cce89d2e925f7ebc85d2f83bb2374d23cde018b2]
+
+
+Processing SteppingController#controls (for 127.0.0.1 at 2010-01-21 15:18:57) [GET]
+  Parameters: {"commit_hash"=>"cce89d2e925f7ebc85d2f83bb2374d23cde018b2"}
+Rendering template within layouts/application
+Rendering stepping/controls
+Completed in 28ms (View: 7, DB: 0) | 200 OK [http://localhost/stepping/controls?commit_hash=cce89d2e925f7ebc85d2f83bb2374d23cde018b2]
+
+
+Processing SteppingController#view_commit (for 127.0.0.1 at 2010-01-21 15:19:00) [GET]
+  Parameters: {"commit_hash"=>"a4df01443cd2381d98bce9317556a70d449d70be"}
+Rendering template within layouts/application
+Rendering stepping/view_commit
+Completed in 22ms (View: 3, DB: 0) | 200 OK [http://localhost/stepping/view_commit?commit_hash=a4df01443cd2381d98bce9317556a70d449d70be]
+
+
+Processing SteppingController#controls (for 127.0.0.1 at 2010-01-21 15:19:00) [GET]
+  Parameters: {"commit_hash"=>"a4df01443cd2381d98bce9317556a70d449d70be"}
+Rendering template within layouts/application
+Rendering stepping/controls
+Completed in 27ms (View: 7, DB: 0) | 200 OK [http://localhost/stepping/controls?commit_hash=a4df01443cd2381d98bce9317556a70d449d70be]
+
+
+Processing SteppingController#view_commit (for 127.0.0.1 at 2010-01-21 15:19:03) [GET]
+  Parameters: {"commit_hash"=>"80c265e3328a89c65a356cc49add2037e11e09fa"}
+Rendering template within layouts/application
+Rendering stepping/view_commit
+Completed in 22ms (View: 3, DB: 0) | 200 OK [http://localhost/stepping/view_commit?commit_hash=80c265e3328a89c65a356cc49add2037e11e09fa]
+
+
+Processing SteppingController#controls (for 127.0.0.1 at 2010-01-21 15:19:04) [GET]
+  Parameters: {"commit_hash"=>"80c265e3328a89c65a356cc49add2037e11e09fa"}
+Rendering template within layouts/application
+Rendering stepping/controls
+Completed in 29ms (View: 7, DB: 0) | 200 OK [http://localhost/stepping/controls?commit_hash=80c265e3328a89c65a356cc49add2037e11e09fa]
+
+
+Processing SteppingController#view_commit (for 127.0.0.1 at 2010-01-21 15:19:42) [GET]
+  Parameters: {"commit_hash"=>"80c265e3328a89c65a356cc49add2037e11e09fa"}
+Rendering template within layouts/application
+Rendering stepping/view_commit
+Completed in 22ms (View: 3, DB: 0) | 200 OK [http://localhost/stepping/view_commit?commit_hash=80c265e3328a89c65a356cc49add2037e11e09fa]
+
+
+Processing SteppingController#controls (for 127.0.0.1 at 2010-01-21 15:19:42) [GET]
+  Parameters: {"commit_hash"=>"80c265e3328a89c65a356cc49add2037e11e09fa"}
+Rendering template within layouts/application
+Rendering stepping/controls
+Completed in 39ms (View: 19, DB: 0) | 200 OK [http://localhost/stepping/controls?commit_hash=80c265e3328a89c65a356cc49add2037e11e09fa]
+
+
+Processing SteppingController#view_commit (for 127.0.0.1 at 2010-01-21 15:19:44) [GET]
+  Parameters: {"commit_hash"=>"5969b8515be1026e9aeb47c937b65fe8140f0dea"}
+Rendering template within layouts/application
+Rendering stepping/view_commit
+Completed in 21ms (View: 3, DB: 0) | 200 OK [http://localhost/stepping/view_commit?commit_hash=5969b8515be1026e9aeb47c937b65fe8140f0dea]
+
+
+Processing SteppingController#controls (for 127.0.0.1 at 2010-01-21 15:19:44) [GET]
+  Parameters: {"commit_hash"=>"5969b8515be1026e9aeb47c937b65fe8140f0dea"}
+Rendering template within layouts/application
+Rendering stepping/controls
+Completed in 28ms (View: 7, DB: 0) | 200 OK [http://localhost/stepping/controls?commit_hash=5969b8515be1026e9aeb47c937b65fe8140f0dea]
+
+
+Processing SteppingController#view_commit (for 127.0.0.1 at 2010-01-21 15:19:46) [GET]
+  Parameters: {"commit_hash"=>"997d0976e26398a64337dce055dfc7189b44137e"}
+Rendering template within layouts/application
+Rendering stepping/view_commit
+Completed in 21ms (View: 3, DB: 0) | 200 OK [http://localhost/stepping/view_commit?commit_hash=997d0976e26398a64337dce055dfc7189b44137e]
+
+
+Processing SteppingController#controls (for 127.0.0.1 at 2010-01-21 15:19:47) [GET]
+  Parameters: {"commit_hash"=>"997d0976e26398a64337dce055dfc7189b44137e"}
+Rendering template within layouts/application
+Rendering stepping/controls
+Completed in 28ms (View: 7, DB: 0) | 200 OK [http://localhost/stepping/controls?commit_hash=997d0976e26398a64337dce055dfc7189b44137e]
+
+
+Processing SteppingController#view_commit (for 127.0.0.1 at 2010-01-21 15:19:49) [GET]
+  Parameters: {"commit_hash"=>"c1f442ac06646672d797c363b13baf39715d979e"}
+Rendering template within layouts/application
+Rendering stepping/view_commit
+Completed in 22ms (View: 3, DB: 0) | 200 OK [http://localhost/stepping/view_commit?commit_hash=c1f442ac06646672d797c363b13baf39715d979e]
+
+
+Processing SteppingController#controls (for 127.0.0.1 at 2010-01-21 15:19:49) [GET]
+  Parameters: {"commit_hash"=>"c1f442ac06646672d797c363b13baf39715d979e"}
+Rendering template within layouts/application
+Rendering stepping/controls
+Completed in 29ms (View: 7, DB: 0) | 200 OK [http://localhost/stepping/controls?commit_hash=c1f442ac06646672d797c363b13baf39715d979e]
+
+
+Processing SteppingController#controls (for 127.0.0.1 at 2010-01-21 15:21:08) [GET]
+  Parameters: {"commit_hash"=>"acfcf87faca688f55042950bd4aba48f7d2d7359"}
+Rendering template within layouts/application
+Rendering stepping/controls
+Completed in 25ms (View: 5, DB: 0) | 200 OK [http://localhost/stepping/controls?commit_hash=acfcf87faca688f55042950bd4aba48f7d2d7359]
+
+
+Processing SteppingController#view_commit (for 127.0.0.1 at 2010-01-21 15:21:12) [GET]
+  Parameters: {"commit_hash"=>"cce89d2e925f7ebc85d2f83bb2374d23cde018b2"}
+Rendering template within layouts/application
+Rendering stepping/view_commit
+Completed in 22ms (View: 3, DB: 0) | 200 OK [http://localhost/stepping/view_commit?commit_hash=cce89d2e925f7ebc85d2f83bb2374d23cde018b2]
+
+
+Processing SteppingController#controls (for 127.0.0.1 at 2010-01-21 15:21:13) [GET]
+  Parameters: {"commit_hash"=>"cce89d2e925f7ebc85d2f83bb2374d23cde018b2"}
+Rendering template within layouts/application
+Rendering stepping/controls
+Completed in 26ms (View: 7, DB: 0) | 200 OK [http://localhost/stepping/controls?commit_hash=cce89d2e925f7ebc85d2f83bb2374d23cde018b2]
+
+
+Processing SteppingController#view_commit (for 127.0.0.1 at 2010-01-21 15:21:15) [GET]
+  Parameters: {"commit_hash"=>"a4df01443cd2381d98bce9317556a70d449d70be"}
+Rendering template within layouts/application
+Rendering stepping/view_commit
+Completed in 21ms (View: 3, DB: 0) | 200 OK [http://localhost/stepping/view_commit?commit_hash=a4df01443cd2381d98bce9317556a70d449d70be]
+
+
+Processing SteppingController#controls (for 127.0.0.1 at 2010-01-21 15:21:15) [GET]
+  Parameters: {"commit_hash"=>"a4df01443cd2381d98bce9317556a70d449d70be"}
+Rendering template within layouts/application
+Rendering stepping/controls
+Completed in 25ms (View: 7, DB: 0) | 200 OK [http://localhost/stepping/controls?commit_hash=a4df01443cd2381d98bce9317556a70d449d70be]
+
+
+Processing SteppingController#view_commit (for 127.0.0.1 at 2010-01-21 15:24:20) [GET]
+  Parameters: {"commit_hash"=>"c1f442ac06646672d797c363b13baf39715d979e"}
+Rendering template within layouts/application
+Rendering stepping/view_commit
+Completed in 39ms (View: 19, DB: 0) | 200 OK [http://localhost/stepping/view_commit?commit_hash=c1f442ac06646672d797c363b13baf39715d979e]
+
+
+Processing SteppingController#controls (for 127.0.0.1 at 2010-01-21 15:24:20) [GET]
+  Parameters: {"commit_hash"=>"c1f442ac06646672d797c363b13baf39715d979e"}
+Rendering template within layouts/application
+Rendering stepping/controls
+Completed in 29ms (View: 8, DB: 0) | 200 OK [http://localhost/stepping/controls?commit_hash=c1f442ac06646672d797c363b13baf39715d979e]
+
+
+Processing SteppingController#view_commit (for 127.0.0.1 at 2010-01-21 15:25:11) [GET]
+  Parameters: {"commit_hash"=>"c1f442ac06646672d797c363b13baf39715d979e"}
+Rendering template within layouts/application
+Rendering stepping/view_commit
+Completed in 22ms (View: 3, DB: 0) | 200 OK [http://localhost/stepping/view_commit?commit_hash=c1f442ac06646672d797c363b13baf39715d979e]
+
+
+Processing SteppingController#controls (for 127.0.0.1 at 2010-01-21 15:25:11) [GET]
+  Parameters: {"commit_hash"=>"c1f442ac06646672d797c363b13baf39715d979e"}
+Rendering template within layouts/application
+Rendering stepping/controls
+Completed in 26ms (View: 7, DB: 0) | 200 OK [http://localhost/stepping/controls?commit_hash=c1f442ac06646672d797c363b13baf39715d979e]
